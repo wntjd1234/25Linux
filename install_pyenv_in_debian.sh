@@ -30,6 +30,5 @@ pyenv install 3.12.2
 pyenv local 3.12.2
 
 # 7. 설치 확인
-echo "✅ 설치 완료"
 python --version
 pyenv version
