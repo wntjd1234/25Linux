@@ -1,0 +1,1 @@
+YunJuSeong,https://github.com/wntjd1234/25Linux.git,,install_pyenv_in_debian.sh
